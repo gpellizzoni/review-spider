@@ -1,0 +1,2 @@
+https://display.powerreviews.com/m/71401/l/en_US/product/PP50/reviews?apikey=db4b9c12-278c-4f30-bb98-38d7bcb45aca&_noconfig=true
+https://api-cdn.yotpo.com/v1/widget/mvMqXE6Jb7yyUH5nd7XoSsutorKeXfXR3WrgZ8Js/products/5627/reviews.json?per_page=100
