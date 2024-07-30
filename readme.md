@@ -1,5 +1,5 @@
 
-# Review Fetcher
+# Review Spider
 
 This project is a Flask application that fetches product reviews from different review providers (Yotpo and PowerReviews), handles pagination, and stores the reviews in a PostgreSQL database using SQLAlchemy.
 
